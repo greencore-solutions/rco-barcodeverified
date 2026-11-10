@@ -1,0 +1,19 @@
+{
+ "name": "The receipt format · Barcode verified",
+ "description": "The receipt a verified product match carries, a verifier anyone can use, and the keys issuers sign under.",
+ "url": "https://rco-barcodeverified.org/",
+ "version": "1",
+ "provider": {
+  "organization": "wefetch",
+  "url": "https://wefetch.ai"
+ },
+ "documentationUrl": "https://rco-barcodeverified.org/llms.txt",
+ "capabilities": {},
+ "skills": [],
+ "defaultInputModes": [
+  "application/json"
+ ],
+ "defaultOutputModes": [
+  "application/json"
+ ]
+}
